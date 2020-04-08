@@ -7,7 +7,7 @@ class CashRegister
   #   @discount = discount
   # end
 
-  def self.new
+  def self.new(total)
     total = self.new
     total = 0
   end
