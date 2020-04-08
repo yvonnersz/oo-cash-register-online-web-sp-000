@@ -7,5 +7,5 @@ class CashRegister
     @total = total
     @total = 0
   end
-  
+
 end
