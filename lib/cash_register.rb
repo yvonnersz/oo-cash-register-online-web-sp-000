@@ -11,5 +11,5 @@ class CashRegister
     total = self.new
     total = 0
   end
-  
+
 end
