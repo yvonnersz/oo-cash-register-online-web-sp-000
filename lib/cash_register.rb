@@ -10,4 +10,6 @@ class CashRegister
   def self.new(total=0)
     total = self.new
     total = total
+  end
+
 end
