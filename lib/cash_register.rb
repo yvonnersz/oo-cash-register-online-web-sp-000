@@ -4,8 +4,7 @@ class CashRegister
 
   def self.new
     total = self.new
-    @total = total
-    @total = 0
+    total = 0
   end
 
 end
